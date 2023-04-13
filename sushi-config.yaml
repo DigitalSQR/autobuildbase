@@ -7,16 +7,16 @@
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 
 
-id: this.should.work
-canonical: http://example.com/fhir/example
-url: http://example.com/fhir/example
+id: fhir.dependency.ig
+canonical: https://openhie.github.io/fhir.dependency.ig
+url: https://openhie.github.io/fhir.dependency.ig
 name: ExampleIG
 title: "HL7 FHIR Implementation Guide: Example IG Release 1 - US Realm | STU1"
 description: Example IG exercises many of the fields in a SUSHI configuration.
 status: active
 license: CC0-1.0
 date: 2020-02-26
-version: 1.0.0
+version: 0.1.0
 
 # Although fhirVersions is 0..* in the ImplementationGuide resource
 # it can be a single item OR and array here (but so far SUSHI only
